@@ -38,7 +38,7 @@ VectorizeImage is a custom Godot plugin that turns raster textures into triangul
    - `Blend`: Averages colors between vertices
 5. Adjust relevant parameters:
    - `Down Scale Multiplier`: Reduce input resolution
-   - `Edge Threshold`, `Dot Spacing`, `Contrast Threshold`, etc.
+   - `Edge Threshold`, `Dot Spacing`, `Edge Contrast Threshold`, etc.
 6. Enable the **Generate** checkbox to create the mesh.
 7. Optionally use the **Preview** field to see your texture overlaid.
 
