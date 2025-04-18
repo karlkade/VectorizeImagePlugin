@@ -16,6 +16,12 @@ VectorizeImage is a custom Godot plugin that turns raster textures into triangul
 
 ---
 
+## Prerequisites
+
+- Godot Engine 4.x (Developed on version 4.3)
+
+---
+
 ## Installation
 
 1. Copy the plugin folder to your project:
