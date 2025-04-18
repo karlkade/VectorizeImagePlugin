@@ -1,12 +1,12 @@
-# 🧩 VectorizeImage Plugin for Godot
+# VectorizeImage Plugin for Godot
 
 VectorizeImage is a custom Godot plugin that turns raster textures into triangulated meshes using random distribution and edge detection without segmentation or with segmentation. Perfect for stylized assets or experimental image-based mesh generation.
 
-> ⚠️ **Note:** This plugin is currently only available for local use and not yet published on the Godot Asset Library.
+> **Note:** This plugin is currently only available for local use and not yet published on the Godot Asset Library.
 
 ---
 
-## ✨ Features
+## Features
 
 - Supports 3 generation modes: `Random`, `Edge`, and `Segment`
 - Adjustable color modes: `Single` (flat color) or `Blend` (gradient)
@@ -16,7 +16,7 @@ VectorizeImage is a custom Godot plugin that turns raster textures into triangul
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Copy the plugin folder to your project:
    ```
@@ -25,7 +25,7 @@ VectorizeImage is a custom Godot plugin that turns raster textures into triangul
 
 ---
 
-## 🛠 Usage
+## Usage
 
 1. Add a `VectorizeImage` node to your scene.
 2. Assign a texture to the **Texture Image** field.
@@ -42,7 +42,7 @@ VectorizeImage is a custom Godot plugin that turns raster textures into triangul
 6. Enable the **Generate** checkbox to create the mesh.
 7. Optionally use the **Preview** field to see your texture overlaid.
 
-## 💬 Feedback
+## Feedback
 
 Feel free to submit suggestions, issues, or feature requests via [GitHub Issues](https://github.com/your-repo/issues).
 
